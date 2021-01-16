@@ -42,7 +42,8 @@ h1 {
 
 
 /* headerはここ */
-background-image:url("https://github.com/simasima217/simasimawebsite/blob/main/main%20kai2.jpg?raw=trueheader {");
+header {
+background-image:url("https://github.com/simasima217/simasimawebsite/blob/main/main%20kai2.jpg?raw=true");
   height: 450px;
   padding-top: 30px;
 }
